@@ -3,7 +3,7 @@ global C
 global x y AtomSpacing
 global nAtoms
 global AtomType Vx Vy Mass0 Mass1
-
+% Atom type (mass)
 if Type == 0
     Mass = Mass0;
 else
